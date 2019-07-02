@@ -1,2 +1,2 @@
 # devops
-Repositorio del curo de DevOps
+Repositorio del curso de DevOps
